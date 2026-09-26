@@ -1,0 +1,32 @@
+I got an idea of this blog post when I had read only a part of it. 
+
+https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
+
+I will now paste disparate parts of my thoughts
+
+
+>A few lines before the reveal I thought of this a a product sold by business, then right after resuming reading again felt the old "ahh, missed the chance again" when you laid out you're already planning it...
+
+
+
+>But really, a platform that allows one to do all levels off apps in this way where one can cleanly reset their side effects and effect on the system, and the app is exposed just as an icon, not a folder of source files, could already be possible and could lower the bar of starting vibe coding to the bottom
+siitä rakentamaan huomisen tietokonetta, kaikki yhessä paketissa
+HW:n taso on vähemmän relevanttia jos jutut vaan kirjotetaan rustilla tjsp ja binäärien koot pidetään hallussa
+Kontitettua vibekoodia?
+sillä tasolla että sitä ei ikinä kato kukaan kehittäjä mutta lopputuloksen ajaa käyttäjä ilman teknistä ymmärrystä
+Tarpeeks tokeneita heittää tota päin ni sanon että saisi kyllä toimimaan. En nää kun tokenirajana
+Se mikä mulle tulee mieleen tekoälykäyttiksistä on hyprlandin ja vastaavien yleistyminen kun voi vibekoodata dotfilut.
+ajattelet nyt väärästä päästä, ei puhuta siitä että ihmiset jotka on ennen edes käyttänyt konetta käyttäisi, vaan kaikki kynnykset olisi poistettu siihen asti että lopputulos olisi vaan AI terminaali josta käyttäjä voi "perinteisesti" kysyä kysymyksiä, mutta ainoa tapa saada softaa olisi pyytää se tekemään joku "hilavitkutin"  englannin kielen kuvauksesta
+
+Ideaalisesti ei edes myisi koko OS:ää vaan raudan+sw kerralla, apple tyyliin. Hinnat alas sillä että siinä on toteutettu mahd paljon uusiksi niin ettei maksa RAMmia ym, pärjäisi jollain 1-2GB
+18:01
+·
+silleen että voisit antaa sen vaikka 8-vuotiaalle tai taksikuskille
+En ihan tajuu miten toi eroo Arch Linuxista mihin ei asenna käytännössä mitään vaan pyytää sun suosikki vibekoodi-työkalua luomaan random sovelluksia
+iPhone on yhtä lähellä arch linuxia kun toi
+pitää päästä irti SW ajattelusta mun mielestä, muuten on ikusesti jumissa suossa tukea ajureita, erilaista rautaa, erilaisia inputmetodeja, eri form factoreita (puhelin,tabletti,läppäri). Oikeat applikatiot välittää aika paljon siitä ootko puhelimella vai koneella.
+
+Vaan yksi abstraktio mitä tosta voi ajatella on se että on immutable arch + vibekoodisoftanluonti kiosk moodissa koko frontendinä, mutta kokonaisuutena ajateltuna toi on eri koska se vaihtaa koko käyttäjäkunnan
+
+
+What do you think of this idea. I'm thinking, if one would want to make it a product, atomized what are the most notable issues. I'm thinking, that to produce a working thing, testing it automatically before giving it to user, would cost 1m+ tokens a prompt, but that might well be OK.
